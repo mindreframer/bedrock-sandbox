@@ -20,6 +20,7 @@
   - [Discussion at YN](https://news.ycombinator.com/item?id=12739771)
   - [SQLite Newsgroup announcement](http://sqlite.1065341.n5.nabble.com/Introducing-Bedrock-SQLite-for-the-Enterprise-td92037.html)
   - [Prodution Setup](http://p2p-hackers.709552.n3.nabble.com/p2p-hackers-Advice-on-concurrent-relational-database-writes-td4025323.html)
+  - [Other Tech in Expensify](https://we.are.expensify.com/our-technology/)
 
 ### Docs
   - https://github.com/Expensify/Bedrock/tree/master/docs
