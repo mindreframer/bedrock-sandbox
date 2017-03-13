@@ -6,11 +6,13 @@
   - Docker
 
 ### Setup
+    # builds docker container
     $ make build
 
 ### Run
-
+    # launches docker container
     $ make run
+    # follow steps in the tutorial.md
 
 ### Articles
   - [FinDEVr SV 2016 / Expensify - Video](http://findevr.com/videos/findevr-silicon-valley-2016-expensify/)
