@@ -2,6 +2,16 @@
 
 - http://bedrockdb.com/
 
+### Required
+  - Docker
+
+### Setup
+    $ make build
+
+### Run
+
+    $ make run
+
 ### Articles
   - [FinDEVr SV 2016 / Expensify - Video](http://findevr.com/videos/findevr-silicon-valley-2016-expensify/)
   - [Your Database is Your Prison — Here’s How Expensify Broke Free](http://firstround.com/review/your-database-is-your-prison-heres-how-expensify-broke-free/)
