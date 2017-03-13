@@ -20,6 +20,7 @@ distributed setup:
     $ bedrock -clean -nodeName node2 -db node2.db -priority 102 -serverHost localhost:8002 -nodeHost localhost:9002 -peerList node0:9000,node1:9001 -fork
 
 Start Options:
+
     // from https://github.com/Expensify/Bedrock/blob/master/configs/bedrock.init
     THISNODE="bedrock"
     PRIORITY=200
