@@ -20,7 +20,13 @@
   - [Discussion at YN](https://news.ycombinator.com/item?id=12739771)
   - [SQLite Newsgroup announcement](http://sqlite.1065341.n5.nabble.com/Introducing-Bedrock-SQLite-for-the-Enterprise-td92037.html)
   - [Prodution Setup](http://p2p-hackers.709552.n3.nabble.com/p2p-hackers-Advice-on-concurrent-relational-database-writes-td4025323.html)
+  - [Re: [sqlite] Introducing Bedrock: SQLite for the Enterprise](https://groups.google.com/forum/m/#!topic/bedrock/cxEIMUcVyc4)
   - [Other Tech in Expensify](https://we.are.expensify.com/our-technology/)
+
+
+### Backups
+
+Additionally, Bedrock already has a backup feature: just send SIGHUP and it'll disconnect from peers, copy the database aside, and then reconnect.  So, just run a three node cluster, and send SIGHUP to one of the nodes to trigger its backup, and then upload that backup somewhere.
 
 ### Docs
   - https://github.com/Expensify/Bedrock/tree/master/docs
