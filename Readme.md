@@ -39,3 +39,11 @@ Additionally, Bedrock already has a backup feature: just send SIGHUP and it'll d
 
 ### Community
   - https://gitter.im/Expensify-Bedrock/Lobby
+
+### Sqlite links
+  - http://charlesleifer.com/blog/five-reasons-you-should-use-sqlite-in-2016/
+  - [We’re pretty happy with SQLite and not urgently interested in a fancier DBMS (beets.io)](https://news.ycombinator.com/item?id=11934826)
+  - https://blogs.gnome.org/jnelson/2015/01/06/sqlite-vacuum-and-auto_vacuum/
+  - http://www.sqlitetutorial.net/
+  - [Engineers Shouldn’t Write ETL (stitchfix.com)](https://news.ycombinator.com/item?id=11312243)
+  - https://news.ycombinator.com/item?id=11187907
